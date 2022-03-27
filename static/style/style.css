@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body:lang(zh) {
+  font-family: "plantc", "Source Han Serif", serif;
+}
+
+#a1yiilhRnZp4UgUbeJc5 {
+  width: 100%;
+  height: 100%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.H8a2ZZ4TfMqEgYOYnJMT {
+  height: 100vh;
+  line-height: 100vh;
+  font-size: 100px;
+  text-align: center;
+}
+
+
+/*# sourceMappingURL=style.css.map*/
